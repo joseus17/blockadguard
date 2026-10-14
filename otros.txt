@@ -56,5 +56,4 @@
 ||tele-latino.com^
 ||vanguardia.com^
 ||videocf.net^
-||youtube.com^
 ||youtu.be^
